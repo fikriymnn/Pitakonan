@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FruitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -1934151089, guid: 6fadbf5639779474cbde38eca1522a20, type: 3}
+    answer: pajajaran
+  - questionImage: {fileID: -1905064564, guid: 6fadbf5639779474cbde38eca1522a20, type: 3}
+    answer: jalan
+  - questionImage: {fileID: -2141213305, guid: 730a8aef791c9914b99a43b57775ef83, type: 3}
+    answer: asmaranda
+  - questionImage: {fileID: -695653502, guid: 189c85bde012e3945b1821e85e10a067, type: 3}
+    answer: karajaan
+  - questionImage: {fileID: -1080985881, guid: 189c85bde012e3945b1821e85e10a067, type: 3}
+    answer: sunda
+  - questionImage: {fileID: 1777421644, guid: 1015f5b8b615f1c49a9c3aeacc766016, type: 3}
+    answer: wilujeng
